@@ -1,1 +1,25 @@
-{"info":"testing for the demo","data":[{"name":"Drinks","image":"https://d4p17acsd5wyj.cloudfront.net/shortcuts/cuisines/fastfood.png"},{"name":"Fruits","image":"https://img.icons8.com/cotton/344/cherry--v2.png"},{"name":"Vegetables","image":"https://d4p17acsd5wyj.cloudfront.net/shortcuts/cuisines/healthy.png"},{"name":"Kitchen Needs","image":"https://d4p17acsd5wyj.cloudfront.net/shortcuts/cuisines/thai.png"},{"name":"Others","image":"https://d4p17acsd5wyj.cloudfront.net/shortcuts/top_eats.png"}]}
+{
+  "info": "testing for the demo",
+  "data": [
+    {
+      "name": "Drinks",
+      "image": "https://d4p17acsd5wyj.cloudfront.net/shortcuts/cuisines/fastfood.png"
+    },
+    {
+      "name": "Fruits",
+      "image": "https://d4p17acsd5wyj.cloudfront.net/shortcuts/cuisines/dessert.png"
+    },
+    {
+      "name": "Vegetables",
+      "image": "https://d4p17acsd5wyj.cloudfront.net/shortcuts/cuisines/healthy.png"
+    },
+    {
+      "name": "Kitchen Needs",
+      "image": "https://d4p17acsd5wyj.cloudfront.net/shortcuts/cuisines/thai.png"
+    },
+    {
+      "name": "Others",
+      "image": "https://d4p17acsd5wyj.cloudfront.net/shortcuts/cuisines/wings.png"
+    }
+  ]
+}
